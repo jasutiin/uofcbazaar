@@ -1,0 +1,6 @@
+.vite
+.DS_Store
+node_modules/
+.env
+deno.lock
+uploads
